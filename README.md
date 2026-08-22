@@ -1,77 +1,145 @@
-<!-- Header Section with Typing Animation -->
-<h1 align="center">Hi 👋, I'm Mayank Tyagi</h1>
-<h3 align="center">Embedded Systems Engineer | Competitive Programmer</h3>
+<!-- ========================================================= -->
+<!--                     POKEMON HEADER                        -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=SWE+Intern+%40+Espressif+Systems;Building+Firmware+%26+BLE+Stacks;Codeforces+Expert+%7C+ICPC+Regionalist;Vim+%2B+CLI+Enthusiast" alt="Typing SVG" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,45:7E22CE,75:FACC15,100:FB923C&height=260&section=header&text=HELLO%20TRAINER!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+    width="75"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=900&color=FACC15&center=true&vCenter=true&width=850&lines=WELCOME+TO+MAYANK'S+POK%C3%89DEX;EMBEDDED+SOFTWARE+TRAINER;BLE+%7C+FREERTOS+%7C+C%2FC%2B%2B;CODEFORCES+EXPERT+%7C+ICPC+REGIONALIST"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayanktyagiluffy">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/M.Phoenix">
+    <img src="https://img.shields.io/badge/Codeforces-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/isagi_yoichii">
+    <img src="https://img.shields.io/badge/CodeChef-B45309?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/LUFFY_M">
+    <img src="https://img.shields.io/badge/HackerRank-15803D?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayanktyagiluffy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://codeforces.com/profile/M.Phoenix"><img src="https://img.shields.io/badge/Codeforces_Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/isagi_yoichii"><img src="https://img.shields.io/badge/CodeChef_4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.hackerrank.com/LUFFY_M"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
+<br>
+
+<!-- ========================================================= -->
+<!--                    TRAINER PROFILE                         -->
+<!-- ========================================================= -->
+
+## ⚡ TRAINER PROFILE
+
+<img
+  align="right"
+  width="270"
+  src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png"
+/>
+
+### 👨‍💻 `MAYANK TYAGI`
+
+**🎓 Trainer Class:** Embedded Software Engineer  
+**🏫 Region:** Army Institute of Technology, Pune  
+**📍 Current Location:** Delhi, India  
+**⭐ Trainer Level:** Expert  
+**🎯 Status:** Open to Full-Time Opportunities
+
+> A developer who enjoys going close to the hardware,
+> solving difficult problems and understanding how systems
+> work under the hood.
+
+### 🌱 Currently Training In
+
+`Embedded Systems` `Bluetooth/BLE` `C` `C++` `FreeRTOS`
+
+`Operating Systems` `Computer Networks` `System Programming`
+
+### 🧩 Former Gym
+
+**Espressif Systems — Software Engineering Intern**
+
+`Jan 2026 → Jun 2026`
+
+Worked with the **Bluetooth/BLE team** on ESP32, ESP-IDF,
+NimBLE, GAP/GATT, FreeRTOS synchronization and
+event-driven embedded systems.
+
+<br clear="right"/>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 **B.E. Electronics & Communication Engineering**, Army Institute of Technology, Pune (2026) — *CGPA: 8.5*
-- 🔧 **Software Engineering Intern at Espressif Systems** (Jan–Jun 2026) — *Bluetooth/BLE team. Building out GAP/GATT stacks in C, utilizing NimBLE and FreeRTOS (heavy on task notifications & IPC) on ESP32.*
-- 🏆 **AIR 85**, ICPC Asia West Regionals (Chennai, 2024–25).
-- 📈 **Competitive Programming:** Peak rating 1655+ (Expert) on Codeforces. Over 1,800+ problems solved across all platforms. 
-- 📰 **Leadership:** Secretary, Magazine Board (Jul 2024–May 2025) — *Led a 50-member team.*
-- 💼 **Looking for full-time SWE / Embedded roles** — *Delhi/Pune base, open to relocation, immediate joiner.*
-
----
-
-### 🛠️ Tech Stack & Workflow
-
-<p>
-  <strong>Languages:</strong><br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-<p>
-  <strong>Embedded & Systems:</strong><br>
-  <img src="https://img.shields.io/badge/FreeRTOS-20232A?style=for-the-badge&logo=freertos&logoColor=29B6F6" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bluetooth_BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket_Programming-FF6F00?style=for-the-badge" />
-</p>
-<p>
-  <strong>Tools & Environment:</strong><br>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Tab Optimizer](#)** | Chrome extension reducing CPU and memory usage across open browser tabs. | `C++`, `JavaScript` |
-| **[ChatSphere](#)** | Multi-client chat server utilizing TCP socket programming & IPC. | `C++`, `Networking` |
-| **[Browser History Design](#)** | Efficient implementation of browser history with $\mathcal{O}(1)$ insertion. | `Java`, `DSA` |
-| **[Movie Recommendation](#)** | Algorithm-driven movie recommendation engine. | `Python` |
-
----
-
-### 📊 GitHub Stats
+# 🧢 TRAINER STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+
+| 🏆 Achievement | ⭐ Record |
+|:---:|:---:|
+| **Codeforces** | Expert · 1655+ |
+| **ICPC** | AIR 85 · Asia West Regional |
+| **CodeChef** | 4★ |
+| **Problems Solved** | 1800+ |
+| **Internship** | Espressif Systems |
+| **Experience** | Bluetooth / BLE |
+
 </p>
 
-<p align="center">📫 <i>Open to full-time SWE and embedded opportunities — reach out on <a href="https://www.linkedin.com/in/mayanktyagiluffy">LinkedIn</a></i></p>
+---
+
+# 🧰 POKÉDEX — TECH STACK
+
+### ⚔️ Primary Moves
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-DC2626?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+### ⚡ Battle Abilities
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FreeRTOS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP--IDF-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NimBLE-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+### 🧠 Passive Abilities
+
+```text
+[✓] Data Structures & Algorithms
+[✓] Operating Systems
+[✓] Computer Networks
+[✓] Object Oriented Programming
+[✓] Concurrency & Multithreading
+[✓] Socket Programming
+[✓] Embedded Systems
+[✓] Real-Time Systems
