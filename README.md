@@ -45,19 +45,27 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Embedded & Systems**
 
-![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-111827?style=flat-square)
-![BLE](https://img.shields.io/badge/-BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-111827?style=for-the-badge)
+![BLE](https://img.shields.io/badge/-BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Core CS**
+
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-374151?style=for-the-badge)
+![OOD](https://img.shields.io/badge/-Object--Oriented%20Design-374151?style=for-the-badge)
+![OS](https://img.shields.io/badge/-Operating%20Systems-374151?style=for-the-badge)
+![CN](https://img.shields.io/badge/-Computer%20Networks-374151?style=for-the-badge)
+![System Design](https://img.shields.io/badge/-System%20Design-374151?style=for-the-badge)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="26"/>
@@ -69,7 +77,9 @@
 <tr>
 <td width="50%" valign="top">
 
-**⚡ Tab Optimizer**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> **Tab Optimizer**
+
+![Type: Utility](https://img.shields.io/badge/Type-Utility-4FA6DE?style=flat-square)
 
 Chrome extension that reduces CPU and memory usage across open browser tabs.
 
@@ -80,7 +90,9 @@ Chrome extension that reduces CPU and memory usage across open browser tabs.
 </td>
 <td width="50%" valign="top">
 
-**🗂️ Browser History Design**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> **Browser History Design**
+
+![Type: Data Structure](https://img.shields.io/badge/Type-Data%20Structure-5B8C3E?style=flat-square)
 
 Java implementation of browser history with O(1) insertion.
 
@@ -93,7 +105,9 @@ Java implementation of browser history with O(1) insertion.
 <tr>
 <td width="50%" valign="top">
 
-**💬 ChatSphere**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> **ChatSphere**
+
+![Type: Network](https://img.shields.io/badge/Type-Network-F0803C?style=flat-square)
 
 Multi-client chat server built with TCP socket programming and IPC.
 
@@ -104,7 +118,9 @@ Multi-client chat server built with TCP socket programming and IPC.
 </td>
 <td width="50%" valign="top">
 
-**🎬 Movie Recommendation**
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="14"/> **Movie Recommendation**
+
+![Type: Data](https://img.shields.io/badge/Type-Data-F4D35E?style=flat-square)
 
 Movie recommendation system built in Python.
 
