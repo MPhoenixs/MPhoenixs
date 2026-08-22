@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1F8ACB&height=180&section=header&text=Mayank%20Tyagi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Competitive+Programmer+%7C+Codeforces+Expert;Ex-Espressif+SWE+Intern" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:1F8ACB,100:6A5ACD&height=220&section=header&text=Mayank%20Tyagi&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20Engineer%20%C2%B7%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
@@ -56,19 +52,6 @@
 **[ChatSphere](https://github.com/MPhoenixs/Chat-box-scoket-programming-)** — Multi-client chat server in C++ built with TCP socket programming and IPC.
 
 **[Movie Recommendation](https://github.com/MPhoenixs/MovieRecommendation)** — Movie recommendation system built in Python.
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MPhoenixs&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MPhoenixs&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MPhoenixs&hide_border=true" />
-</p>
 
 ---
 
