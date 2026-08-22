@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.jpg" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/MPhoenixs/MPhoenixs/main/assets/header.jpg" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=1000&color=F0803C&center=true&vCenter=true&width=750&lines=Mayank+Tyagi;Embedded+Systems+Engineer+%C2%B7+Competitive+Programmer;Open+to+Full-Time+SWE+Roles"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=1000&color=F0803C&center=true&vCenter=true&width=650&lines=Mayank+Tyagi;Embedded+Systems+Engineer;Competitive+Programmer;Open+to+Full-Time+SWE+Roles"
     alt="Typing SVG"
   />
 </p>
