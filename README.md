@@ -65,13 +65,56 @@
 
 ### Featured Projects
 
-**[Tab Optimizer](https://github.com/MPhoenixs/Tab-optimizers)** — Chrome extension in C++/JavaScript that reduces CPU and memory usage across open browser tabs.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Browser History Design](https://github.com/MPhoenixs/BrowserHistory-design)** — Java implementation of browser history with O(1) insertion.
+**⚡ Tab Optimizer**
 
-**[ChatSphere](https://github.com/MPhoenixs/Chat-box-scoket-programming-)** — Multi-client chat server in C++ built with TCP socket programming and IPC.
+Chrome extension that reduces CPU and memory usage across open browser tabs.
 
-**[Movie Recommendation](https://github.com/MPhoenixs/MovieRecommendation)** — Movie recommendation system built in Python.
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔗 [View Repo](https://github.com/MPhoenixs/Tab-optimizers)
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ Browser History Design**
+
+Java implementation of browser history with O(1) insertion.
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+🔗 [View Repo](https://github.com/MPhoenixs/BrowserHistory-design)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 ChatSphere**
+
+Multi-client chat server built with TCP socket programming and IPC.
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+🔗 [View Repo](https://github.com/MPhoenixs/Chat-box-scoket-programming-)
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 Movie Recommendation**
+
+Movie recommendation system built in Python.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+🔗 [View Repo](https://github.com/MPhoenixs/MovieRecommendation)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="26"/>
