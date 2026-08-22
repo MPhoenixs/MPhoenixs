@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=1000&color=F0803C&center=true&vCenter=true&width=650&lines=Mayank+Tyagi;Embedded+Systems+Engineer;Competitive+Programmer;Open+to+Full-Time+SWE+Roles"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2800&pause=1000&color=F0803C&center=true&vCenter=true&width=650&lines=Mayank+Tyagi;Low+Level+Programmer;Competitive+Programmer;Open+to+Full-Time+SWE+Roles"
     alt="Typing SVG"
   />
 </p>
