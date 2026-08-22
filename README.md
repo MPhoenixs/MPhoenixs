@@ -1,18 +1,23 @@
-<h1 align="center">Hi, I'm Mayank Tyagi 👋</h1>
-<h3 align="center">Embedded Systems Engineer · Competitive Programmer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:1F8ACB&height=180&section=header&text=Mayank%20Tyagi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F8ACB&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;Competitive+Programmer+%7C+Codeforces+Expert;Ex-Espressif+SWE+Intern" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayanktyagiluffy" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/M.Phoenix" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/isagi_yoichii" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/LUFFY_M" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
