@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MPhoenixs/MPhoenixs/main/header.jpg" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/MPhoenixs/MPhoenixs/main/header.jpg" width="700" alt="header"/>
 </p>
 
 <p align="center">
